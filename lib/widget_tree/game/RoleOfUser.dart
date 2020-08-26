@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import './MainView.dart';
 
 class RoleOfUser extends StatelessWidget {
   @override
@@ -23,11 +24,11 @@ class RoleOfUser extends StatelessWidget {
                     ),
                     color: Colors.teal.shade500,
                     onPressed: () {
-                      // Navigator.push(context,
-                      //     MaterialPageRoute(builder: (context) => GuestLogin()));
+                      Navigator.push(context,
+                          MaterialPageRoute(builder: (context) => MainView()));
                     },
                     child: Text(
-                      'Невидимка',
+                      'Ведущий',
                       style: TextStyle(color: Colors.white),
                     ),
                   ),
@@ -48,7 +49,7 @@ class RoleOfUser extends StatelessWidget {
                       //     MaterialPageRoute(builder: (context) => JoinGame()));
                     },
                     child: Text(
-                      'Включить микрофон',
+                      'Участник',
                       style: TextStyle(color: Colors.white),
                     ),
                   ),
@@ -69,7 +70,7 @@ class RoleOfUser extends StatelessWidget {
                       //     MaterialPageRoute(builder: (context) => JoinGame()));
                     },
                     child: Text(
-                      'Включить микрофон и камеру',
+                      'Гость',
                       style: TextStyle(color: Colors.white),
                     ),
                   ),
