@@ -1,4 +1,4 @@
-#Wed Aug 26 22:29:20 MSK 2020
-base.0=/Users/elusha/Development/tools/casino_macau/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Wed Aug 26 23:30:40 MSK 2020
+base.0=/Users/elusha/Development/tools/casino/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

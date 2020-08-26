@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/elusha/Development/tools/casino_macau/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/Users/elusha/Development/tools/casino/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/Users/elusha/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/values-mk/values-mk.xml",
